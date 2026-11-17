@@ -178,6 +178,16 @@ Thanks to [Kimi](https://platform.kimi.ai?track_id=track-9e3b711aa2594e378f6fe5b
   </tr>
   <tr>
     <td align="center" width="120">
+      <a href="https://link.bach.art/4iW1qZL"><picture><source media="(prefers-color-scheme: dark)" srcset="docs/sponsors/video-rebirth-logo-dark.svg"><img src="docs/sponsors/video-rebirth-logo-light.svg" alt="Video Rebirth" height="56"></picture></a><br>
+      <a href="https://link.bach.art/4iW1qZL"><strong>Video Rebirth</strong></a>
+    </td>
+    <td align="left">
+      Thanks to <a href="https://link.bach.art/4iW1qZL">Video Rebirth</a> for sponsoring this project! Video Rebirth builds <strong>BACH</strong>, an industrial-grade video model for production. <strong>BACH1.0 Pro ranked No. 2 on Artificial Analysis's Image-to-Video leaderboard in October 2026</strong>.<br>
+      The company also open-sources the HyperFlow series; <strong>HyperFlow H3 Flash surpassed 500K downloads within six days of release</strong>. Video generation starts from <strong>&#36;0.03 per second</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
       <a href="https://reccloud.com"><img src="docs/sponsors/reccloud-logo.svg" alt="RecCloud" height="36"></a><br>
       <a href="https://reccloud.com">RecCloud</a>
     </td>
